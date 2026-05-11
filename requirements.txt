@@ -22,5 +22,5 @@ PyMySQL==1.1.1
 requests==2.32.4
 SQLAlchemy==2.0.19
 typing_extensions==4.7.1
-urllib3==2.6.3
+urllib3==2.7.0
 yarl==1.9.2
